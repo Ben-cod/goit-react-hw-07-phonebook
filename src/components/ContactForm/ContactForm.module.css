@@ -1,5 +1,6 @@
 .form {
   background-color: aquamarine;
+  border: 3px solid black;
   padding: 15px;
   margin-bottom: 15px;
   border-radius: 20px;
