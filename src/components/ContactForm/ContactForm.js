@@ -91,7 +91,7 @@ export const ContactForm = () => {
             </div>
           </div>
           <button className={css.button} type="submit">
-            Add contact
+            ☎️ Add contact
           </button>
         </Form>
       </Formik>
